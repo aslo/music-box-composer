@@ -1,0 +1,16 @@
+.sequenceTable {
+
+  td {
+    width: 23px;
+    height: 23px;
+    border: 1px solid black;
+
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .active {
+    background-color: yellow;
+  }
+
+}
