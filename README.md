@@ -2,6 +2,8 @@
 
 A web app for music composition and discovery.
 
+![screenshot](screenshot.png)
+
 Goals of this project:
 * [x] implement a sequencer 
 * [x] experiment with [React](https://facebook.github.io/react/)/[Webpack](http://webpack.github.io/)/[Babel](https://babeljs.io/)
